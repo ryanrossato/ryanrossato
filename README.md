@@ -6,11 +6,6 @@ Olá! Eu sou Ryan e este é o meu perfil no GitHub. 👋
 - 👯 Estou aberto(a) a colaborações em projetos interessantes.
 - 📫 Como me encontrar: [Instagram](https://instagram.com/ryanrossato) ou [E-mail](ryanrossato5@gmail.com) ou [Linkedin](www.linkedin.com/in/ryanrossato)
 
-## Projetos
-
-Aqui estão alguns dos projetos em que tenho trabalhado:
-
-- [Projeto 1](link-para-o-projeto-1)
 
 ## Contato
 
